@@ -1,4 +1,4 @@
-![github-contribution-grid-snake](https://raw.githubusercontent.com/bitFieldE/bitFieldE/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/bitFieldE/bitFieldE/main/dist/github-user-contribution.svg)
 
 ## :space_invader: My Activities
 
