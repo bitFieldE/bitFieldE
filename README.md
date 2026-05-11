@@ -2,8 +2,15 @@
 
 ## :space_invader: My Activities
 
-[![bitFieldE's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitFieldE&theme=tokyonight&show_icons=true)](https://github.com/bitFieldE)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitFieldE&theme=tokyonight" />
+</p>
 
-[![bitFieldE's GitHub Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitFieldE&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/bitFieldE)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitFieldE&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bitFieldE&theme=tokyonight" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bitFieldE&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=bitFieldE&theme=tokyonight" />
+</p>
